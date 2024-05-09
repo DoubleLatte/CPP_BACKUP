@@ -5,7 +5,7 @@
 #include <string>
 #include "ftp.h"
 
-
+//이게 메인 코드
 class FolderCreator {
 public:
     FolderCreator() {
